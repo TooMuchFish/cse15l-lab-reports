@@ -1,4 +1,4 @@
-Hi,
-my name is shaodong
-I am major in Math&CS
-I like play video games.
+> Hi,
+# my name is shaodong
+## I am major in Math&CS
+* I like play video games.
