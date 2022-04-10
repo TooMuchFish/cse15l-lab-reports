@@ -26,9 +26,8 @@ After you agree the agreement that VScode push to you, your VScode will ready to
 welcome to the coding world!
 
 # 2. Remotely Connecting
-* First thing is download the OpenSSH if you have not done yet, [click here!](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
-
-Then we need to finish the setting up which called my course speacial account before the class, [click here!](https://sdacs.ucsd.edu/~icc/index.php)
+* First thing is download the OpenSSH if you have not done yet, [click here!](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse).
+* Then we need to finish the setting up which called my course speacial account before the class, [click here!](https://sdacs.ucsd.edu/~icc/index.php)
 <img width="1128" alt="OPENSSH1" src="https://user-images.githubusercontent.com/103075501/162642195-f0854705-32aa-40d3-bde1-324aa8a55f7e.png">
 
 * When we need to login to the server remotely, we just use the command " ssh cs15lsp22aqr@ieng6.ucsd.edu " input to the terminal in your VScode.
