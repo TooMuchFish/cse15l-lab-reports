@@ -57,7 +57,8 @@ In this step, we are going to start the setting up of the SSH key, like the imag
 This step is calling the java file within the remote server, we can use some command keys:
 * java
 * javac filename.java
-* etc..
+* etc...
+
 After you checked the file is in the remote server, use the commmand " cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI" to run the file WhereAmI.java.
 ![remoterunning](https://user-images.githubusercontent.com/103075501/162642349-34c97311-48cb-4c85-a17e-963c54c2a6db.png)
 
