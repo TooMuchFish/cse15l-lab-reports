@@ -46,7 +46,7 @@ There are a few commands we can use, simply just input in terminal
   <img width="1046" alt="somecommand" src="https://user-images.githubusercontent.com/103075501/162642236-17aeec9c-20bd-4ea1-b89d-8381bf5ad826.png">
 
 # 4. Moving Files with scp
-If we want to moving files with scp, now we saved a java file named WhereAmI.java, we can use the command "scp WhereAmI.java cs15lsp22apr@ieng6.ucsd.edu" to send it to remote server. like the image below.
+If we want to moving files with scp, now we saved a java file named WhereAmI.java, we can use the command " scp WhereAmI.java cs15lsp22apr@ieng6.ucsd.edu " to send it to remote server. like the image below.
 ![movingfilewithscp](https://user-images.githubusercontent.com/103075501/162642315-2f7ec480-0398-4b26-9fc0-afefa17b4448.png)
 
 # 5. Setting an SSH Key
