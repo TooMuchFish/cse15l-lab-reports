@@ -31,24 +31,31 @@ then you will see the image below, it means you are remotely connecting to your 
 <img width="1088" alt="OpenSSH2" src="https://user-images.githubusercontent.com/103075501/162642221-ef3bef20-7284-413d-a0b7-88f5ad9e1194.png">
 
 # Trying Some Commands
-there are a few commands we can use
+there are a few commands we can use in terminal
 * ls -lat
 * ls -a
 * cd
 * cd ~
 * pwd
 * cp
-* in <directory>
+* in-<directory>
   etc.....
   <img width="1046" alt="somecommand" src="https://user-images.githubusercontent.com/103075501/162642236-17aeec9c-20bd-4ea1-b89d-8381bf5ad826.png">
 
 # Moving Files with scp
-if we want to moving files with scp, now we saved a java file named WhereAmI.java, we can use the command "scp WhereAmI.java cs15lsp22apr@ieng6.ucsd.edu" to send it to remote server.
+if we want to moving files with scp, now we saved a java file named WhereAmI.java, we can use the command "scp WhereAmI.java cs15lsp22apr@ieng6.ucsd.edu" to send it to remote server. like the image below.
 ![movingfilewithscp](https://user-images.githubusercontent.com/103075501/162642315-2f7ec480-0398-4b26-9fc0-afefa17b4448.png)
 
 # Setting an SSH Key
+In this step, we are going to start the setting up of the SSH key, like the image below.
 ![settingkey](https://user-images.githubusercontent.com/103075501/162642330-8022ae39-7c9e-46bb-b5e4-7053e9a8774a.png)
 
 # Optimizing Remote Running
+This step is calling the java file within the remote server, we can use some command keys:
+* java
+* javac filename.java
+* etc..
 ![remoterunning](https://user-images.githubusercontent.com/103075501/162642349-34c97311-48cb-4c85-a17e-963c54c2a6db.png)
+# Thank you
+This is the end of my lab 1 report. Thank your watching.
 ![thank-you](https://user-images.githubusercontent.com/103075501/162642394-44533b1f-86e6-4dd4-ac23-0c8392cfdbbb.jpg)
