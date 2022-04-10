@@ -13,18 +13,21 @@ In this lab report, I'll indroduce the steps to complete how to complete the fol
 * Setting an SSH Key
 * Optimizing Remote Running
 
+
 # 1. Installing the VScode
 
 [VScode](https://code.visualstudio.com) is a website to download the free software, and the [follow the viedo](https://www.youtube.com/watch?v=MlIzFUI1QGA) to do the steps, you will be able to install your VScode easily
 Notice your computer system and the VScode vision when you start this.
 <img width="1193" alt="vscode1" src="https://user-images.githubusercontent.com/103075501/162642160-c92f1ee8-54fd-489a-814e-659a568dc126.png">
+
 After you agree the agreement of vscode push to you, your vscode will ready to use, like the the image below.
 <img width="1440" alt="vscode2" src="https://user-images.githubusercontent.com/103075501/162642179-6315fb5e-e112-42a6-af22-b330b221edf0.png">
+
 welcome to the coding world!
 
 # 2. Remotely Connecting
-First thing is download the OpenSSH if you have not, right [here](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
-Then we need to finish the setting up which called my course speacial account before the class, right [here](https://sdacs.ucsd.edu/~icc/index.php)
+First thing is download the OpenSSH if you have not, [right here](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
+Then we need to finish the setting up which called my course speacial account before the class, [right here](https://sdacs.ucsd.edu/~icc/index.php)
 <img width="1128" alt="OPENSSH1" src="https://user-images.githubusercontent.com/103075501/162642195-f0854705-32aa-40d3-bde1-324aa8a55f7e.png">
 when we need to login to the server remotely, we just use the command " ssh cs15lsp22aqr@ieng6.ucsd.edu " input to the terminal in your VScode.
 then you will see the image below, it means you are remotely connecting to your class.
@@ -58,4 +61,5 @@ This step is calling the java file within the remote server, we can use some com
 ![remoterunning](https://user-images.githubusercontent.com/103075501/162642349-34c97311-48cb-4c85-a17e-963c54c2a6db.png)
 # Thank you
 This is the end of my lab 1 report. Thank your watching.
+  
 ![thank-you](https://user-images.githubusercontent.com/103075501/162642394-44533b1f-86e6-4dd4-ac23-0c8392cfdbbb.jpg)
