@@ -16,18 +16,18 @@ In this lab report, I'll indroduce the steps to complete how to complete the fol
 
 [VScode](https://code.visualstudio.com) is a website to download the free software, and the follow the [viedo](https://www.youtube.com/watch?v=MlIzFUI1QGA) to do the steps, you will be able to install your VScode easily
 Notice your computer system and the VScode vision when you start this.
-
-
+<img width="1193" alt="vscode1" src="https://user-images.githubusercontent.com/103075501/162642160-c92f1ee8-54fd-489a-814e-659a568dc126.png">
 After you agree the agreement of vscode push to you, your vscode will ready to use, like the the image below.
-
+<img width="1440" alt="vscode2" src="https://user-images.githubusercontent.com/103075501/162642179-6315fb5e-e112-42a6-af22-b330b221edf0.png">
 welcome to the coding world!
 
 # Remotely Connecting
 First thing is download the OpenSSH if you have not, right [here](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
 Then we need to finish the setting up which called my course speacial account before the class, right [here](https://sdacs.ucsd.edu/~icc/index.php)
+<img width="1128" alt="OPENSSH1" src="https://user-images.githubusercontent.com/103075501/162642195-f0854705-32aa-40d3-bde1-324aa8a55f7e.png">
 when we need to login to the server remotely, we just use the command " ssh cs15lsp22aqr@ieng6.ucsd.edu " input to the terminal in your VScode.
 then you will see the image below, it means you are remotely connecting to your class.
-
+<img width="1088" alt="OpenSSH2" src="https://user-images.githubusercontent.com/103075501/162642221-ef3bef20-7284-413d-a0b7-88f5ad9e1194.png">
 
 # Trying Some Commands
 there are a few commands we can use
@@ -39,7 +39,7 @@ there are a few commands we can use
 * cp
 * in <directory>
   etc.....
-  
+  <img width="1046" alt="somecommand" src="https://user-images.githubusercontent.com/103075501/162642236-17aeec9c-20bd-4ea1-b89d-8381bf5ad826.png">
 
 # Moving Files with scp
 if we want to moving files with scp, now we saved a java file named WhereAmI.java, we can use the command "scp WhereAmI.java cs15lsp22apr@ieng6.ucsd.edu" to send it to remote server.
