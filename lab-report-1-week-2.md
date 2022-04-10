@@ -15,7 +15,7 @@ In this lab report, I'll indroduce the steps to complete how to complete the fol
 
 # 1. Installing the VScode
 
-[VScode](https://code.visualstudio.com) is a website to download the free software, and the follow the [viedo](https://www.youtube.com/watch?v=MlIzFUI1QGA) to do the steps, you will be able to install your VScode easily
+[VScode](https://code.visualstudio.com) is a website to download the free software, and the [follow the viedo](https://www.youtube.com/watch?v=MlIzFUI1QGA) to do the steps, you will be able to install your VScode easily
 Notice your computer system and the VScode vision when you start this.
 <img width="1193" alt="vscode1" src="https://user-images.githubusercontent.com/103075501/162642160-c92f1ee8-54fd-489a-814e-659a568dc126.png">
 After you agree the agreement of vscode push to you, your vscode will ready to use, like the the image below.
