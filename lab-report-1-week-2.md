@@ -3,6 +3,7 @@
 Date: April 9, 2022
 
 This is my first lab report, welcome.
+![welcome](https://user-images.githubusercontent.com/103075501/162642398-9902f982-4aa5-4e33-816d-d0eba4ceace9.jpeg)
 
 In this lab report, I'll indroduce the steps to complete how to complete the following steps.
 * Installing VScode
@@ -43,10 +44,11 @@ there are a few commands we can use
 
 # Moving Files with scp
 if we want to moving files with scp, now we saved a java file named WhereAmI.java, we can use the command "scp WhereAmI.java cs15lsp22apr@ieng6.ucsd.edu" to send it to remote server.
+![movingfilewithscp](https://user-images.githubusercontent.com/103075501/162642315-2f7ec480-0398-4b26-9fc0-afefa17b4448.png)
 
-  
 # Setting an SSH Key
+![settingkey](https://user-images.githubusercontent.com/103075501/162642330-8022ae39-7c9e-46bb-b5e4-7053e9a8774a.png)
 
-  
 # Optimizing Remote Running
-
+![remoterunning](https://user-images.githubusercontent.com/103075501/162642349-34c97311-48cb-4c85-a17e-963c54c2a6db.png)
+![thank-you](https://user-images.githubusercontent.com/103075501/162642394-44533b1f-86e6-4dd4-ac23-0c8392cfdbbb.jpg)
