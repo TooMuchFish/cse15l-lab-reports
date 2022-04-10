@@ -17,10 +17,10 @@ In this lab report, I'll indroduce the steps about how to complete the following
 # 1. Installing the VScode
 
 [VScode](https://code.visualstudio.com) is a website to download the free software, and the [follow the viedo](https://www.youtube.com/watch?v=MlIzFUI1QGA) to do the steps, you will be able to install your VScode easily
-Notice your computer system and the VScode vision when you start this.
+Notice you download the correct vision for the system of your computer.
 <img width="1193" alt="vscode1" src="https://user-images.githubusercontent.com/103075501/162642160-c92f1ee8-54fd-489a-814e-659a568dc126.png">
 
-After you agree the agreement of vscode push to you, your vscode will ready to use, like the the image below.
+After you agree the agreement that VScode push to you, your VScode will ready to use, like the the image below.
 <img width="1440" alt="vscode2" src="https://user-images.githubusercontent.com/103075501/162642179-6315fb5e-e112-42a6-af22-b330b221edf0.png">
 
 welcome to the coding world!
