@@ -42,7 +42,7 @@ there are a few commands we can use in terminal
 * cd ~
 * pwd
 * cp
-* in <directory>
+* etc...
   <img width="1046" alt="somecommand" src="https://user-images.githubusercontent.com/103075501/162642236-17aeec9c-20bd-4ea1-b89d-8381bf5ad826.png">
 
 # 4. Moving Files with scp
