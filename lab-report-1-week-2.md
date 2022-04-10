@@ -26,8 +26,8 @@ After you agree the agreement of vscode push to you, your vscode will ready to u
 welcome to the coding world!
 
 # 2. Remotely Connecting
-First thing is download the OpenSSH if you have not, [right here](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
-Then we need to finish the setting up which called my course speacial account before the class, [right here](https://sdacs.ucsd.edu/~icc/index.php)
+First thing is download the OpenSSH if you have not, [right here!](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
+Then we need to finish the setting up which called my course speacial account before the class, [right here!](https://sdacs.ucsd.edu/~icc/index.php)
 <img width="1128" alt="OPENSSH1" src="https://user-images.githubusercontent.com/103075501/162642195-f0854705-32aa-40d3-bde1-324aa8a55f7e.png">
 when we need to login to the server remotely, we just use the command " ssh cs15lsp22aqr@ieng6.ucsd.edu " input to the terminal in your VScode.
 then you will see the image below, it means you are remotely connecting to your class.
@@ -41,8 +41,7 @@ there are a few commands we can use in terminal
 * cd ~
 * pwd
 * cp
-* in-<directory>
-  etc.....
+* in <directory>
   <img width="1046" alt="somecommand" src="https://user-images.githubusercontent.com/103075501/162642236-17aeec9c-20bd-4ea1-b89d-8381bf5ad826.png">
 
 # 4. Moving Files with scp
