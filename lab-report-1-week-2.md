@@ -5,7 +5,7 @@ Date: April 9, 2022
 This is my first lab report, welcome.
 ![welcome](https://user-images.githubusercontent.com/103075501/162642398-9902f982-4aa5-4e33-816d-d0eba4ceace9.jpeg)
 
-In this lab report, I'll indroduce the steps to complete how to complete the following steps.
+In this lab report, I'll indroduce the steps about how to complete the followings.
 * Installing VScode
 * Remotely Connecting
 * Trying Some Commands
